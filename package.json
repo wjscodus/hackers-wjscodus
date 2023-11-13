@@ -1,0 +1,19 @@
+{
+  "name": "twjscodus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjscodus/hackers-wjscodus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjscodus/hackers-wjscodus/issues"
+  },
+  "homepage": "https://github.com/wjscodus/hackers-wjscodus#readme"
+}
